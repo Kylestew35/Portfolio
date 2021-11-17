@@ -1,0 +1,14 @@
+/** Common **/
+
+body {
+  font-family: monospace, sans-serif;
+}
+
+.font-primary {
+  color: blue;
+}
+
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
+}
