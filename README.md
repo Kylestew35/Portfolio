@@ -4,7 +4,8 @@ This portfolio is a small project using HTML / CSS and Bootstrap. I will be addi
 
 [Live Heroku Deployment](https://portfolio-kylep.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/87539893/142298381-75435a0c-3d18-4cc7-8ad4-f5d10836ae0a.png)
+![image](https://user-images.githubusercontent.com/87539893/142298749-ca7e350b-d48a-4557-a088-cf968c687f62.png)
+
 
 ## Technologies Used
 
