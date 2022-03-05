@@ -2,29 +2,32 @@
 
 body {
   font-family: monospace, sans-serif;
+  background-color: black;
 }
 
 .font-primary {
-  color: blue;
+  color: rgb(115, 115, 170);
 }
 
 .title-icon {
+  color: lightgray !important;
   font-size: 20px;
   font-weight: bold;
 }
 p {
   font-size: 14px;
-  color: blue;
+  color: rgb(115, 115, 170);
 }
 
 h2 {
+  color: lightgray;
   font-weight: bold;
   font-size: 23px;
   margin-bottom: 20px;
 }
 
 a.font-black {
-  color: blue !important;
+  color: rgb(115, 115, 170) !important;
 }
 /** About **/
 
@@ -36,27 +39,31 @@ a.font-black {
 
 #about img {
   border-radius: 50%;
-  width: 100px;
+  width: 150px;
   height: 150px;
   margin-bottom: 10px;
 }
 
 #about .name {
-  font-size: 19px;
+  font-size: 25px;
+  color: lightgray;
+  font-weight: 800;
 }
 
 #about .vocation {
-  font-size: 13px;
-  color: blue;
+  font-size: 20px;
+  color: rgb(115, 115, 170);
   margin-bottom: 10px;
 }
 
 #about .skills {
+  color: lightgray;
   font-size: 14px;
   margin-bottom: 10px;
 }
 
 #about .email {
+  color: lightgray !important;
   margin-top: 14px;
   font-size: 15px;
 }
@@ -66,12 +73,13 @@ a.font-black {
   font-size: 30px;
 }
 #about .icons a {
-  color: blue;
+  color: rgb(115, 115, 170);
 }
 
 /** Project **/
 
 #project {
+  background-color: lightgray;
   margin: 60px auto;
   width: 80%;
 }
@@ -81,9 +89,14 @@ a.font-black {
 }
 
 #project .card img {
-  width: 100%;
+  width: 110%;
+  height: 80%;
 }
 
 #project .card-title {
   font-weight: bold;
+}
+
+.proj {
+  color: rgb(115, 115, 170) !important;
 }
